@@ -1,6 +1,6 @@
 # Hi there, I'm Sukhbir 👋
 
-I'm currently working as a Software Engineer at [Peak](https://peak.ai/).
+I'm currently working as a Software Engineer at [Microsoft](https://www.linkedin.com/company/microsoft/).
 
 [![Linkedin Badge](https://img.shields.io/badge/-sukhbir--singh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sukhbir-singh/)](https://www.linkedin.com/in/sukhbir-singh/) [![Twitter Badge](https://img.shields.io/badge/-@sukhbir947-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sukhbir947)](https://twitter.com/sukhbir947)
 
